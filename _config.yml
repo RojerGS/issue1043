@@ -3,8 +3,3 @@
 #
 title: My sample book
 author: The Jupyter Book Community
-logo: logo.png
-
-latex:
-  latex_documents:
-    targetname: book.tex
