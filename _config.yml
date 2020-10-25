@@ -1,0 +1,10 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+#
+title: My sample book
+author: The Jupyter Book Community
+logo: logo.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
